@@ -1,2 +1,2 @@
 # jmeter_reports
-Repository for jmeer reports
+Repository for jmeter reports
